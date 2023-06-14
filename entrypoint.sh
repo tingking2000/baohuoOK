@@ -7,7 +7,7 @@ UUID=${UUID:-'b8c94534-8c5a-44c6-9388-7a5889ffd648'}
 # 其他Paas保活
 PAAS1_URL=okteto92-tingking2000.cloud.okteto.net
 PAAS2_URL=okyun22-tingking2000.cloud.okteto.net
-PAAS3_URL=baohuoOK-tingking2000.cloud.okteto.net
+PAAS3_URL=app-tingking2000.cloud.okteto.net
 PAAS4_URL=
 PAAS5_URL=
 PAAS6_URL=
